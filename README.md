@@ -1,9 +1,11 @@
 # lab3-
  
-Th√™m c√°c file: 
+Thêm các file: 
  - OMSAdminApp, OMSAdminController trong package main
  - AdminBookPageController, AdminMediaListPane,AdminMediaPageController trong media
 
  
 
  
+
+
